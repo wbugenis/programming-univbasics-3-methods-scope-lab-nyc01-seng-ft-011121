@@ -1,5 +1,7 @@
 def mario
-  status = 'Thank You Mario! But Our Princess Is In Another Castle!'
+  status = 'def introduction_with_language(name, language)
+    puts "Hi, my name is #{name} and I am learning to program in #{language}."
+end'
   puts phrase
 end
 
